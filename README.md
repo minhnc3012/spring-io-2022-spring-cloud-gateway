@@ -58,3 +58,7 @@ which made them available for inspecting from Grafana. The traces follows the Op
 
 **Prometheus** is a monitoring system part of the Grafana observability stack. It parses the metrics endpoints exposed by Spring Boot
 applications (`/actuator/prometheus`). Metrics are available for inspecting and dashboarding from Grafana.
+
+Video: 
+1. https://www.youtube.com/watch?v=UXcCHX_ymag
+2. https://www.youtube.com/watch?v=jkP199zzknw&t=144s
